@@ -1,0 +1,24 @@
+# Usage: pip install -r requirements.txt
+# IMPORTANT: Use conda to install pywin32 in case of having errors with the package
+#Might need to install IPython with "conda install IPython"
+# Base ----------------------------------------
+matplotlib==3.2.2
+numpy==1.18.5
+opencv-python==4.5.5.64
+Pillow==7.1.2
+PyYAML==5.3.1
+requests>=2.21.0
+scipy==1.4.1  # Google Colab version
+torch==1.8.0
+torchvision==0.9.0
+tqdm>=4.64.0
+protobuf<4.21.3  # https://github.com/ultralytics/yolov5/issues/8012
+tensorboard==2.4.1
+pandas==1.1.4
+seaborn==0.11.0
+keyboard
+windows-curses
+PyAutoGUI
+psutil
+IPython
+pywin32
