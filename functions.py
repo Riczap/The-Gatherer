@@ -20,7 +20,8 @@ def get_rectangles(results):
 
 def toggle_vision(vision_status, frame):
     if vision_status:
-        cv2.imshow("Matches", frame)
+        #resized = cv2.resize(frame, (720,480), interpolation = cv2.INTER_AREA)
+        cv2.imshow("Matches", resized)
     else:
         cv2.destroyAllWindows()
 
