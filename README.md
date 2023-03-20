@@ -27,3 +27,5 @@ Feel free to use the code for your own projects!
 If you have any issues and need assistance send me a message or post something on:
 Discord: WanderingEye#0330
 Forum: https://www.unknowncheats.me/forum/usercp.php
+
+I'm working on a new version that works fully on C++ that also implements a GUI, I'll create a new repo for it and add the link here once I have a prototype done.
