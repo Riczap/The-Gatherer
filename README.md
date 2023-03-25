@@ -5,6 +5,8 @@ I'm also working on a full guide on how to tinker with the source code to add yo
 
 Showcase: [https://www.youtube.com/watch?v=y669rc18ia4](https://www.youtube.com/watch?v=y669rc18ia4)
 
+Training Data: https://drive.google.com/drive/u/2/folders/17X_f17WpzoxHMURSj5QIZ4lMUWPImf5V
+
 You can check out the rewritten version on C++ that uses Onnx to run inference here: https://github.com/Riczap/The-Gatherer-Cpp
 
 This runs with Python and you'll need to follow this steps for running it:
