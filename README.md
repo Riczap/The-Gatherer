@@ -1,5 +1,7 @@
 
 # The-Gatherer-2.0
+You can still access the previous version by changing the branch on Github.
+
 This was made using YOLOv5 and OpenCV. The model is now comaptible with CPU and GPU and it detexts automaticly the best option for your computer. You can load your custom YOLO models (exported to **ONNX**) by using your own .onnx file.
 
 On how to use your own data set to train a custom model, for now I'ld recomend following this tutorial for custom training. [https://www.youtube.com/watch?v=GRtgLlwxpc4](https://www.youtube.com/watch?v=GRtgLlwxpc4). I'm also uploading very soon a simple guide to export your .pt model to .onnx so it can run in this version of the bot.
