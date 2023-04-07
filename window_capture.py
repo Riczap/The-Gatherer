@@ -11,7 +11,7 @@ class WindowCapture:
     offset_y = 0
 
 
-    def __init__(self, window_name=None):
+    def __init__(self, window_name=None, width=1024, height=768):
         
         if window_name is None:
             self.hwnd = win32gui.GetDesktopWindow()
@@ -22,8 +22,8 @@ class WindowCapture:
                 raise Exception("Window not found: {}".format(window_name))
         
         #Define monitor dimentions
-        self.w = 1024 #1366
-        self.h = 768 #768
+        self.w = width #1366
+        self.h = height #768
     
     def get_screenshot(self):
         #bmpfilenamename = "out.bmp" #set this
