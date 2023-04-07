@@ -6,6 +6,8 @@ On how to use your own data set to train a custom model, for now I'ld recomend f
 
 You can check out the rewritten version on C++ (with no UI) that also uses Onnx to run inference here: https://github.com/Riczap/The-Gatherer-Cpp
 
+- **Known Issue: ** Trying to move the window of The Gatherer 2 while having the Bot Vision activated, will crash the program. (You can move the command prompt at any time without issues)
+
  - **Note:** The Bot and the Vision are independent, you can have the bot running without the Computer Vision function activated. The model is running on the background whenever you activate either of them.
 
 - Training Data (Demo): https://drive.google.com/drive/u/2/folders/17X_f17WpzoxHMURSj5QIZ4lMUWPImf5V
