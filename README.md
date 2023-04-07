@@ -39,7 +39,7 @@ To use the new version of The Gatherer you can install the dependencies either i
  5. Now you can run the **main.py** file through the conda environment using `conda activate myenv` `followed by python main.py`
  6. The default windowed screen size for the bot is *1024x768* resolution. Move the game window to the upper left corner of the screen. You can use any resolution and just adjust two variables in the code. Instructions at the end of the post.
 ### Executable
- 1. Download and extract the zip file
+ 1. Download and extract the zip file: https://drive.google.com/file/d/1HImNmd06msfE_RuhBxIzT-rLlXL6LCa5/view?usp=share_link
  2. Right click and create a shortcut of **The Gatherer 2.exe** file and move it to your desired location
  3. Remeber that you'll need to acces the **models** directory to add new custom models.
 
