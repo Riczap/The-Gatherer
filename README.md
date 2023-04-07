@@ -11,6 +11,8 @@ You can check out the rewritten version on C++ (with no UI) that also uses Onnx 
 - **Known Issue:** Trying to move the window of The Gatherer 2 while having the Bot Vision activated, will crash the program. (You can move the command prompt at any time without issues)
 
  - **Note:** The Bot and the Vision are independent, you can have the bot running without the Computer Vision function activated. The model is running on the background whenever you activate either of them.
+ 
+ - **Note:** All of the parameters have default values, so you can leve them blank and it'll work fine.
 
 - Training Data (Demo): https://drive.google.com/drive/u/2/folders/17X_f17WpzoxHMURSj5QIZ4lMUWPImf5V
 
@@ -42,7 +44,6 @@ To use the new version of The Gatherer you can install the dependencies either i
  3. Create an Environment using the following command on the anaconda prompt: `conda create -n myenv` (you can choose any name you want for the env)
  4. Activate the environment and open the directory where you downloaded the source code for the bot. Run the following line to install all of the dependencies: `pip install -r requirements.txt`
  5. Now you can run the **main.py** file through the conda environment using `conda activate myenv` `followed by python main.py`
- 6. The default windowed screen size for the bot is *1024x768* resolution. Move the game window to the upper left corner of the screen. You can use any resolution and just adjust two variables in the code. Instructions at the end of the post.
 ### Executable
  1. Download and extract the zip file: https://drive.google.com/file/d/1HImNmd06msfE_RuhBxIzT-rLlXL6LCa5/view?usp=share_link
  2. Right click and create a shortcut of **The Gatherer 2.exe** file and move it to your desired location
