@@ -8,9 +8,9 @@ You can check out the rewritten version on C++ (with no UI) that also uses Onnx 
 
  - **Note:** The Bot and the Vision are independent, you can have the bot running without the Computer Vision function activated. The model is running on the background whenever you activate either of them.
 
-Training Data (Demo): https://drive.google.com/drive/u/2/folders/17X_f17WpzoxHMURSj5QIZ4lMUWPImf5V
+- Training Data (Demo): https://drive.google.com/drive/u/2/folders/17X_f17WpzoxHMURSj5QIZ4lMUWPImf5V
 
-Showcase: Video coming Soon...
+- Showcase: Video coming Soon...
 ![Showcase](https://user-images.githubusercontent.com/77018982/230541525-271eea09-be75-47e8-be8f-6c8bb133668a.PNG)
 
 ## New Features
