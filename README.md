@@ -42,8 +42,8 @@ To use the new version of The Gatherer you can install the dependencies either i
  1. Clone the repository on GitHub (Download the files).
  2. Install Anaconda: [https://www.anaconda.com/products/distribution](https://www.anaconda.com/products/distribution)
  3. Create an Environment using the following command on the anaconda prompt: `conda create -n myenv` (you can choose any name you want for the env)
- 4. Activate the environment and open the directory where you downloaded the source code for the bot. Run the following line to install all of the dependencies: `pip install -r requirements.txt`
- 5. Now you can run the **main.py** file through the conda environment using `conda activate myenv` `followed by python main.py`
+ 4. Activate the environment using `conda activate myenv` and open the directory where you downloaded the source code for the bot. Run the following line to install all of the dependencies: `pip install -r requirements.txt`
+ 5. Now you can run the **main.py** file through the conda environment using `python main.py`
 ### Executable
  1. Download and extract the zip file: https://drive.google.com/file/d/1HImNmd06msfE_RuhBxIzT-rLlXL6LCa5/view?usp=share_link
  2. Right click and create a shortcut of **The Gatherer 2.exe** file and move it to your desired location
