@@ -1,6 +1,8 @@
 # Usage: pip install -r requirements.txt
 # IMPORTANT: Use conda to install pywin32 in case of having errors with the package
+# Note: If you have issues with the win32 packages you can install them individualy with: pip install win32gui, win32ui, win32con
 # Base ----------------------------------------
 opencv-python
 customtkinter
 pyautogui
+pywin32
