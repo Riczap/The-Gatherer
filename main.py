@@ -21,7 +21,7 @@ class App(ctk.CTk):
         super().__init__()
 
         self.models = filter_models(get_files_in_folder())
-        self.model = "custom_yolov5.onnx"
+        self.model = "rough_stone.onnx"
         self.is_cuda = len(sys.argv) > 1 and sys.argv[1] == "cuda"
         self.net = build_model(self.is_cuda, f"models/{self.model}")
 
