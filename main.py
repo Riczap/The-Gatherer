@@ -77,7 +77,7 @@ class App(ctk.CTk):
 
         #Creating Objects
         self.actions_frame = SwitchesFrame(self, name="Actions", text1="Display bot's vision", text2="Gather resources", command_name1 = update_vision_status, command_name2 = update_bot_status)
-        self.game_size_box = DropdownFrame(self, name="Select Window Size", text="Game resolution", default="1024x720" , options=["1280x720", "1280x1024", "1366x768", "1600x900", "1680x1050", "1920x1080"])
+        self.game_size_box = DropdownFrame(self, name="Select Window Size", text="Game resolution", default="1024x720" , options=["1024x720","1280x720", "1280x1024", "1366x768", "1600x900", "1680x1050", "1920x1080"])
         self.onnx_model_box = DropdownFrame(self, name="Select detection model", text="Onnx model", default="rough_stone.onnx", options=self.models)
         self.update_info_button = ctk.CTkButton(self, text="Save changes", command=update_info)
         self.waiting_time_frame = SingleEntryFrame(self, header_name="EntryFrame1", name="Waiting Time", text="3.5", default=3.5)
