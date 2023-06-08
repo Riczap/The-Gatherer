@@ -16,6 +16,8 @@ If you want to donate to the project you can do it via PayPal with this link: [h
  
  - **Note:** All of the parameters have default values, so you can leve them blank and it'll work fine.
 
+-Download Tutorial: https://www.youtube.com/watch?v=dljCXzuKTKo
+
 - Training Data (Demo): https://drive.google.com/drive/u/2/folders/17X_f17WpzoxHMURSj5QIZ4lMUWPImf5V
 
 - Showcase: Video coming Soon...
