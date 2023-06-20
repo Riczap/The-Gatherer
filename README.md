@@ -35,6 +35,7 @@ Just remember to click the **Save changes** button after you selected your custo
 
 ## Installation
 To use the new version of The Gatherer you can install the dependencies either in your main python environment, using anaconda or as an executable file.
+
 -Download Tutorial: https://www.youtube.com/watch?v=dljCXzuKTKo
 ### Python
  1. Clone the repository on GitHub (Download the files).
