@@ -14,8 +14,6 @@ You can check out the rewritten version on C++ (with no UI) that also uses Onnx 
  
  - **Note:** All of the parameters have default values, so you can leve them blank and it'll work fine.
 
--Download Tutorial: https://www.youtube.com/watch?v=dljCXzuKTKo
-
 - Training Data (Demo): https://drive.google.com/drive/u/2/folders/17X_f17WpzoxHMURSj5QIZ4lMUWPImf5V
 
 - Showcase: Video coming Soon...
@@ -37,6 +35,7 @@ Just remember to click the **Save changes** button after you selected your custo
 
 ## Installation
 To use the new version of The Gatherer you can install the dependencies either in your main python environment, using anaconda or as an executable file.
+-Download Tutorial: https://www.youtube.com/watch?v=dljCXzuKTKo
 ### Python
  1. Clone the repository on GitHub (Download the files).
  2. Open a console terminal and run the following command to install all of the dependencies: `pip install -r requirements.txt`
