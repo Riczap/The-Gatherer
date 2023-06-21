@@ -6,6 +6,8 @@ This was made using YOLOv5 and OpenCV. The model is now comaptible with CPU and 
 
 On how to use your own data set to train a custom model, for now I'ld recomend following this tutorial for custom training. [https://www.youtube.com/watch?v=GRtgLlwxpc4](https://www.youtube.com/watch?v=GRtgLlwxpc4). I'm also uploading very soon a simple guide to export your .pt model to .onnx so it can run in this version of the bot.
 
+If you want to train and export your own custom onnx model you can follow the steps that are set up in the following Google Colab: https://colab.research.google.com/drive/19kVzBERhRwB1jywcKeJ3dALARNd5-dR7?usp=sharing
+
 You can check out the rewritten version on C++ (with no UI) that also uses Onnx to run inference here: https://github.com/Riczap/The-Gatherer-Cpp
 
 - **Known Issue:** Trying to move the window of The Gatherer 2 while having the Bot Vision activated, will crash the program. (You can move the command prompt at any time without issues)
