@@ -18,7 +18,7 @@ You can check out the rewritten version on C++ (with no UI) that also uses Onnx 
 
 - Training Data (Demo): https://drive.google.com/drive/u/2/folders/17X_f17WpzoxHMURSj5QIZ4lMUWPImf5V
 
-- Showcase: Video coming Soon...
+- Showcase: Note that the following video is of the previous 1.0 version with an outdated GUI. [https://www.youtube.com/watch?v=y669rc18ia4](https://www.youtube.com/watch?v=y669rc18ia4)
 ![Showcase](https://user-images.githubusercontent.com/77018982/230541525-271eea09-be75-47e8-be8f-6c8bb133668a.PNG)
 
 ## New Features
